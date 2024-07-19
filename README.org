@@ -4,5 +4,5 @@ nproc for FreeBSD
 ** Note
 This version of nproc is for FreeBSD 12 and older releases.
 As the initial version of nproc landed in FreeBSD 13.2,
-previous versions of FreeBSD has no backwards compat with
-the changes in 13.2.
+previous versions of FreeBSD has no forwards compat with
+the changes made in 13.2.
