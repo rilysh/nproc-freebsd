@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Others
+*.1
+max.c
+test.c
+nproc-freebsd/
+nproc
